@@ -75,7 +75,7 @@ These goals are accomplished by providing your users with a self-service experie
 
 Implementing Azure AD joined devices provides you with the following benefits:
 
-- **Single-Sign-On (SSO)** to your Azure managed SaaS apps and services. Your users don’t see additional authentication prompts when accessing work resources. The SSO functionality is even when they are not connected to the domain network available.
+- **Single-Sign-On (SSO)** to your Azure managed SaaS apps and services. Your users don’t see additional authentication prompts when accessing work resources. The SSO functionality is even available when they are not connected to the domain network available.
 
 - **Enterprise compliant roaming** of user settings across joined devices. Users don’t need to connect a Microsoft account (for example, Hotmail) to see settings across devices.
 
